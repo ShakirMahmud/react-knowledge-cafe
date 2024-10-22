@@ -2,7 +2,7 @@ import { BiBookmark } from "react-icons/bi";
 import PropTypes from "prop-types";
 const Blog = ({blog, handleAddToBookmarks, handleMarkAsRead}) => {
     
-    const {title, cover, reading_time, author_img, author, posted_date, hashtags} = blog;
+    const {id, title, cover, reading_time, author_img, author, posted_date, hashtags} = blog;
     return (
         <div className="mb-10 mr-4 border-b-2 space-y-4">
             <img className="w-full h-[450px] object-cover mb-8 rounded-lg" src={cover} alt={`Cover picture of ${title}`} />
@@ -31,7 +31,7 @@ const Blog = ({blog, handleAddToBookmarks, handleMarkAsRead}) => {
             </div>
             <div>
             <button 
-            onClick={()=> handleMarkAsRead(reading_time)}
+            onClick={()=> handleMarkAsRead(reading_time, id)}
             className="text-purple-600 font-bold underline mb-6">
                 Mark As Read
             </button>

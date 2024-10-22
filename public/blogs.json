@@ -48,6 +48,109 @@
       "posted_date": "2024-10-05",
       "reading_time": 4,
       "hashtags": ["#Minimalism", "#Lifestyle", "#Productivity"]
-    }
+    },
+    
+      {
+        "id": "6",
+        "cover": "https://cdn.greenmatch.co.uk/cdn-cgi/image/format=auto/2/2023/12/Electric-Vehicles-Stats-and-Trends.png",
+        "title": "The Rise of Electric Vehicles: A New Era of Transportation",
+        "author": "David Lee",
+        "author_img": "https://randomuser.me/api/portraits/men/3.jpg",
+        "posted_date": "2024-09-30",
+        "reading_time": 6,
+        "hashtags": ["#EV", "#Technology", "#Sustainability"]
+      },
+      {
+        "id": "7",
+        "cover": "https://www.mindful.org/content/uploads/Meditation-Mindfulness-1.jpg",
+        "title": "Mindfulness in the Modern World: A Path to Mental Clarity",
+        "author": "Emma Thompson",
+        "author_img": "https://randomuser.me/api/portraits/women/4.jpg",
+        "posted_date": "2024-09-25",
+        "reading_time": 5,
+        "hashtags": ["#Mindfulness", "#Wellness", "#MentalHealth"]
+      },
+      {
+        "id": "8",
+        "cover": "https://billionbricks.org/wp-content/uploads/2023/06/Smith_Climate_Ag_4.12.png",
+        "title": "The Impact of Climate Change on Global Food Security",
+        "author": "James Wilson",
+        "author_img": "https://randomuser.me/api/portraits/men/4.jpg",
+        "posted_date": "2024-09-20",
+        "reading_time": 7,
+        "hashtags": ["#ClimateChange", "#Environment", "#FoodSecurity"]
+      },
+      {
+        "id": "9",
+        "cover": "https://www.simplilearn.com/ice9/free_resources_article_thumb/What_are_the_Most_Promising_Applications_for_Blockchain.jpg",
+        "title": "Blockchain Beyond Cryptocurrency: Real-World Applications",
+        "author": "Olivia Garcia",
+        "author_img": "https://randomuser.me/api/portraits/women/5.jpg",
+        "posted_date": "2024-09-15",
+        "reading_time": 6,
+        "hashtags": ["#Blockchain", "#Technology", "#Innovation"]
+      },
+      {
+        "id": "10",
+        "cover": "https://static.vecteezy.com/system/resources/previews/025/876/336/large_2x/human-space-exploration-background-colorful-space-illustration-generative-ai-free-photo.jpeg",
+        "title": "Space Exploration: What's Next for Humanity?",
+        "author": "Liam Martinez",
+        "author_img": "https://randomuser.me/api/portraits/men/5.jpg",
+        "posted_date": "2024-09-10",
+        "reading_time": 8,
+        "hashtags": ["#Space", "#Exploration", "#Science"]
+      },
+      {
+        "id": "11",
+        "cover": "https://thumbs.dreamstime.com/b/control-emotions-8683396.jpg",
+        "title": "The Power of Meditation: Inner Peace in a Hectic World",
+        "author": "Sophia Green",
+        "author_img": "https://randomuser.me/api/portraits/women/6.jpg",
+        "posted_date": "2024-09-05",
+        "reading_time": 4,
+        "hashtags": ["#Meditation", "#Wellness", "#Lifestyle"]
+      },
+      {
+        "id": "12",
+        "cover": "https://img.freepik.com/free-photo/sunset-sky-powers-wind-solar-energy-generated-by-ai_188544-26193.jpg",
+        "title": "Renewable Energy: Powering the Future",
+        "author": "Michael Robinson",
+        "author_img": "https://randomuser.me/api/portraits/men/6.jpg",
+        "posted_date": "2024-09-01",
+        "reading_time": 5,
+        "hashtags": ["#RenewableEnergy", "#Sustainability", "#Environment"]
+      },
+      {
+        "id": "13",
+        "cover": "https://media.istockphoto.com/id/1468430468/photo/medical-technology-doctor-use-ai-robots-for-diagnosis-care-and-increasing-accuracy-patient.jpg?s=612x612&w=0&k=20&c=KqQbjGMVakHNTJOeh3LVeiqwZWF4Kt5j3taoJXY4x80=",
+        "title": "Artificial Intelligence in Healthcare: Revolutionizing Medicine",
+        "author": "Isabella Moore",
+        "author_img": "https://randomuser.me/api/portraits/women/7.jpg",
+        "posted_date": "2024-08-25",
+        "reading_time": 7,
+        "hashtags": ["#AI", "#Healthcare", "#Innovation"]
+      },
+      {
+        "id": "14",
+        "cover": "https://media.licdn.com/dms/image/C4D12AQEE-w2uDWzs9w/article-cover_image-shrink_720_1280/0/1627919705397?e=2147483647&v=beta&t=DDfaOtStEREZIaYKwG9yOt-ERqpMXQkkI4uIDqyEO54",
+        "title": "The Future of Work: How Remote Jobs Are Changing the World",
+        "author": "Jacob White",
+        "author_img": "https://randomuser.me/api/portraits/men/7.jpg",
+        "posted_date": "2024-08-20",
+        "reading_time": 6,
+        "hashtags": ["#RemoteWork", "#FutureOfWork", "#Technology"]
+      },
+      {
+        "id": "15",
+        "cover": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F805100069%2F1663017308763%2F1%2Foriginal.20240710-131520?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=723b2652f33e3a7efa4013fa2f556968",
+        "title": "The Evolution of Social Media: Trends for 2025",
+        "author": "Emily Carter",
+        "author_img": "https://randomuser.me/api/portraits/women/8.jpg",
+        "posted_date": "2024-08-15",
+        "reading_time": 5,
+        "hashtags": ["#SocialMedia", "#Trends", "#Technology"]
+      }
+    
+    
   ]
   
