@@ -1,7 +1,7 @@
 [
     {
       "id": "1",
-      "cover": "https://images.unsplash.com/photo-1564866657318-26472ad2fd07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=600",
+      "cover": "https://thecriticalscript.com/public/uploads/blog/6447c929746bc_tmpphpwtkyrf.jpg",
       "title": "The Future of AI: Opportunities and Challenges",
       "author": "Jane Doe",
       "author_img": "https://randomuser.me/api/portraits/women/1.jpg",
@@ -31,7 +31,7 @@
     },
     {
       "id": "4",
-      "cover": "https://images.unsplash.com/photo-1541377210563-1d6f5c2efb15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=600",
+      "cover": "https://imageio.forbes.com/specials-images/imageserve/671350fd271930a575408d28/View-on-Funningur-fjord--Eysturoy-Island---Faroe-islands/0x0.jpg?format=jpg&width=960",
       "title": "Top 10 Travel Destinations for 2025",
       "author": "Michael Brown",
       "author_img": "https://randomuser.me/api/portraits/men/2.jpg",
